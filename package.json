@@ -29,9 +29,6 @@
     "lodash": "4.17.21",
     "pretty-ms": "5.1.0"
   },
-  "peerDependencies": {
-    "newman": "^5.3.3"
-  },
   "engines": {
     "node": ">=6"
   },
